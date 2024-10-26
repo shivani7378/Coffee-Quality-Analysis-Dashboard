@@ -55,6 +55,7 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 4.	How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
 Insights Drawn
+
 1] Globally total of 47K Kilogram of coffee has been tested for qualtiy check.
 
 2] Globally 3.7K Kilogram of coffee has been discarded as defetive by National Associations.
