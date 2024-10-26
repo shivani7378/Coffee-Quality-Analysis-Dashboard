@@ -56,8 +56,13 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 Insights Drawn
 1] Globally total of 47K Kilogram of coffee has been tested for qualtiy check.
+
 2] Globally 3.7K Kilogram of coffee has been discarded as defetive by National Associations.
+
 3] Aroma, Flavor, Aftertaste, Acidity are some of the quality parameters.
+
 4] Ethopia, Taiwan, Guatemala, Honduras, Colombia are the top 5 global coffee producers.
+
 5] Ethopian Hairlooms, Bourbon, Caturra, Gesha, Typica are the most produed varieties.
+
 Remember, data analysis is an ongoing adventure. So grab your coffee ☕, investigate further, and keep drawing those insights! 🚨 Feel free to expand upon this conclusion or add any additional findings you discover. Happy analyzing! 😊🐱‍👓
