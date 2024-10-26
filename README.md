@@ -68,5 +68,5 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 **Remember, data analysis is an ongoing adventure. So grab your coffee ☕, investigate further, and keep drawing**
 **those insights! 🚨 Feel free to expand upon this conclusion or add any additional findings you discover.**
-** Happy analyzing! 😊🐱‍👓**
+**Happy analyzing!** 😊🐱‍👓
 
