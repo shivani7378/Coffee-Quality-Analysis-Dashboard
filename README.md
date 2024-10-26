@@ -1,12 +1,11 @@
-**##Purpose Of the Project**
+**Purpose Of the Project**
 
 The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
 
 
 CQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.
 
-
-##Data Description
+**Data Description**
 
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
@@ -40,8 +39,7 @@ Category Two defects are secondary defects that are more subtle and can only be 
 
 
 
-##Objective
-
+**Objective**
 
 
 The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality. Specifically, we aim to explore the following research questions:
@@ -56,7 +54,7 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 4.	How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
-##Insights Drawn
+**Insights Drawn**
 
 1] Globally total of 47K Kilogram of coffee has been tested for qualtiy check.
 
@@ -68,4 +66,5 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 5] Ethopian Hairlooms, Bourbon, Caturra, Gesha, Typica are the most produed varieties.
 
-##Remember, data analysis is an ongoing adventure. So grab your coffee ☕, investigate further, and keep drawing those insights! 🚨 Feel free to expand upon this conclusion or add any additional findings you discover. Happy analyzing! 😊🐱‍👓
+**Remember, data analysis is an ongoing adventure. So grab your coffee ☕, investigate further, and keep drawing those insights! 🚨 Feel free to expand upon this conclusion or add any additional findings you discover. Happy analyzing! 😊🐱‍👓
+**
